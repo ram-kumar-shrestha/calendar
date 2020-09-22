@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1600795899 source:c:\users\user\desktop\calendar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"choose.h"
+
+1600774968 c:\users\user\desktop\calendar\zeller.c
+
+1600774706 source:c:\users\user\desktop\calendar\zeller.c
+	<math.h>
+
+1600794268 c:\users\user\desktop\calendar\zeller.h
+	<math.h>
+
+1600796039 c:\users\user\desktop\calendar\layout.h
+	<math.h>
+	<stdbool.h>
+
+1600796366 c:\users\user\desktop\calendar\choose.h
+	"zeller.h"
+	"layout.h"
+
